@@ -1,0 +1,23 @@
+{
+    "short_name": "P SpeedTest",
+    "name": "Premium Speed Test",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#000000",
+    "background-color": "#000000",
+    "description": "A premium speed test pwa app to easily test your connection anywhere.",
+    "icons": [
+      {
+        "src": "images/logo3.png",
+        "type": "images/png",
+        "sizes": "225x225"
+      },
+      {
+        "src": "images/logo3.png",
+        "type": "images/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
