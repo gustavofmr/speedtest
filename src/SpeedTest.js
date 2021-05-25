@@ -1,3 +1,5 @@
+//esse é o script principal do backend, ele é o servidor http que vai responder com a página html
+
 const express = require('express');
 const Server = express();
 const randomBytes = require('random-bytes');
